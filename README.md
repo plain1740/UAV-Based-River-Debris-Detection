@@ -84,8 +84,7 @@ pip install -r requirements.txt
 - [ ] **Retraining / 新一轮训练**: Fine-tune the model with the newly refined data. / 使用新提取的精炼数据进行模型微调。
 ### 5. 效果展示 (Showcase)
 
-![[Pasted image 20260317085454.png]]
-![[Pasted image 20260317085505.png]]
-![[Pasted image 20260317085518.png]]
-![[Pasted image 20260317085546.png]]
-![[Pasted image 20260317085645.png]]
+<img width="389" height="162" alt="Pasted image 20260317085350" src="https://github.com/user-attachments/assets/f6f7cf39-7c88-4404-ae0b-5ab270efcee4" />
+<img width="424" height="206" alt="Pasted image 20260317085416" src="https://github.com/user-attachments/assets/d9cf772d-0ad3-417c-ac8d-c8c6f12a29b6" /><img width="572" height="145" alt="Pasted image 20260317085518" src="https://github.com/user-attachments/assets/3f28fd73-30cc-422b-9a89-6ba653a76c45" />
+<img width="818" height="474" alt="Pasted image 20260317085645" src="https://github.com/user-attachments/assets/67c6185c-97a1-481f-a8d8-c16de22ef7b8" />
+
