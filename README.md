@@ -59,6 +59,4 @@ Through statistical EDA (bounding box area distribution, aspect ratio scatter pl
 
 ## 📸 效果展示 (Showcase)
 
-![[yolo_dataset_analysis.png]]
-![[train_plot.png]]
-![[result0.png]]
+![yolo_dataset_analysis](yolo_dataset_analysis.png) ![train_plot](train_plot.png) ![result0](result0.png)
